@@ -33,8 +33,8 @@ For the colormaps themselve and other data formats
 
 ## License
 
-This project is licensed under the GPL v3 license. 
-See the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the [GPL v3 license](gpl.md). 
+
 
 ## Acknowledgments
 Peter Kovesi did all the hard work. I just wrote an overwrought regexp script.
