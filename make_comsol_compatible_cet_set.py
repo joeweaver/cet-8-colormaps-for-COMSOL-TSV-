@@ -14,7 +14,7 @@ Peter Kovesi. Good Colour Maps: How to Design Them.
 arXiv:1509.03700 [cs.GR] 2015
 
 This is a quick one-off script, use as you will.
-Joseph E. Weaver, jeweave4@ncsu.edu 
+Joseph E. Weaver, jeweave4@ncsu.edu
 
 """
 
