@@ -42,4 +42,4 @@ Peter Kovesi did all the hard work. I just wrote an overwrought regexp script.
 Cite him!
 
 Peter Kovesi. Good Colour Maps: How to Design Them.
-arXiv:1509.03700 [cs.GR] 2015
+[arXiv:1509.03700](https://arxiv.org/abs/1509.03700) [cs.GR] 2015
