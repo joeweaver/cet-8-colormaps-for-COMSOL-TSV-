@@ -33,7 +33,7 @@ For the colormaps themselve and other data formats
 
 ## License
 
-This project is licensed under the [GPL v3 license](gpl.md). 
+This project is licensed under the MIT license.
 
 
 ## Acknowledgments
